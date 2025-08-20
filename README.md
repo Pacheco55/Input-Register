@@ -1,6 +1,8 @@
-<img width="511" height="102" alt="Image" src="https://github.com/user-attachments/assets/2fcd8790-b085-4fd6-9f33-8e720645536a" />
+<img width="705" height="140" alt="Image" src="https://github.com/user-attachments/assets/2fcd8790-b085-4fd6-9f33-8e720645536a" />
 
-<img width="512" height="144" alt="Image" src="https://github.com/user-attachments/assets/ba85eeaf-2e33-4a7c-8b29-6b6b0eaca733" />
+<img width="706" height="199" alt="Image" src="https://github.com/user-attachments/assets/ba85eeaf-2e33-4a7c-8b29-6b6b0eaca733" />
+
+
 
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue)
 ![Security](https://img.shields.io/badge/Security-Monitoring-green)
@@ -8,23 +10,19 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Executable](https://img.shields.io/badge/Type-Executable-red)
 
-**Solución completa de monitorización discreta para Windows - Captura cada interacción sin dejar rastro visible**
+**Solución completa de monitorización discreta para Windows 
+Capturador de cada interacción sin dejar rastro visible**
 
 *Herramienta profesional de registro de actividades desarrollada por PIXELBITS Studios que opera en total discreción, capturando cada tecla, clic y movimiento para aplicaciones de seguridad, control parental y supervisión empresarial.*
 
 ---
 
-## Tabla de Contenidos
-- [¿Por Qué Elegir Nuestra Solución?](#por-qué-elegir-nuestra-solución)
-- [Características Exclusivas](#características-exclusivas)
-- [Aplicaciones Prácticas](#aplicaciones-prácticas)
+## Facil pero Rapido 
+
 - [Instalación Instantánea](#instalación-instantánea)
 - [Modo de Operación](#modo-de-operación)
-- [Casos de Uso Reales](#casos-de-uso-reales)
 - [Capturas de Pantalla](#capturas-de-pantalla)
-- [Preguntas Frecuentes](#preguntas-frecuentes)
 - [Solicitar Versión Personalizada](#solicitar-versión-personalizada)
-- [Licencia y Soporte](#licencia-y-soporte)
 - [Contacto](#contacto)
 
 ---
@@ -32,7 +30,8 @@
 ## ¿ Por Qué Elegir Nuestra Solución ?
 
 ### Monitorización Completa Sin Detección
-Opera en modo stealth absoluto - sin ventanas, iconos o indicadores visibles. Captura cada interacción mientras permanece completamente invisible para el usuario monitorizado.
+Opera en paralelo . 
+Captura cada interacción mientras permanece completamente invisible para el usuario monitorizado.
 
 ### Tecnología de Captura Avanzada
 Registro preciso de:
@@ -41,8 +40,7 @@ Registro preciso de:
 - **Aplicaciones y ventanas** utilizadas en cada momento
 - **Tiempos de actividad** e inactividad prolongada
 
-  ![Image](https://github.com/user-attachments/assets/829e8134-5148-48c4-963f-df93b7892010)
-  
+<img width="720" alt="Image" src="https://github.com/user-attachments/assets/829e8134-5148-48c4-963f-df93b7892010" />  
 
 ### Visualización Profesional Intuitiva
 Al finalizar la monitorización, acceda a:
@@ -51,10 +49,10 @@ Al finalizar la monitorización, acceda a:
 - **Vistas resumidas** y detalladas de todas las actividades
 - **Exportación completa** de reportes profesionales
 
-  ![Image](https://github.com/user-attachments/assets/b9979117-66f7-4085-965b-524853b15e95)
+<img width="720" alt="Image" src="https://github.com/user-attachments/assets/b9979117-66f7-4085-965b-524853b15e95" />
 
-  ![Image](https://github.com/user-attachments/assets/e9285af7-208e-48dd-8c8c-e41fe64fbadf)
-  
+<img width="720" alt="Image" src="https://github.com/user-attachments/assets/e9285af7-208e-48dd-8c8c-e41fe64fbadf" />
+
 
 ## Características Exclusivas
 
@@ -92,7 +90,7 @@ Cada evento incluye timestamp preciso, aplicación en uso y contexto completo.
 ### Descarga y Ejecución Inmediata
 1. **Descargue** el archivo ZIP desde nuestra plataforma
 2. **Extraiga** en cualquier carpeta de su preferencia
-3. **Ejecute** el archivo `PIXELBITS_INPUT_LOGGER.exe`
+3. **Ejecute** el archivo `inputRegisterLITE.exe`
 4. **Comience** a monitorear instantáneamente
 
 ### Requisitos del Sistema
@@ -107,47 +105,42 @@ Cada evento incluye timestamp preciso, aplicación en uso y contexto completo.
 ### Inicio Automático
 Al ejecutar la aplicación:
 - Inicia monitoreo inmediatamente
-- No muestra interfaz gráfica visible
 - Opera en segundo plano discretamente
 
 ### Finalización Segura
 Para detener el monitoreo:
 1. Ingrese la contraseña de seguridad (12345)
 2. Acceda al visualizador de registros automáticamente
-
-### Características de Stealth
-- **Sin iconos** en la bandeja del sistema
-- **No visible** en el administrador de tareas
-- **Sin notificaciones** o alertas del sistema
-- **Operación silenciosa** continua
+3. NO cerrara si no es con la contraseña
 
 ## Casos de Uso Reales
 
 ### Para Padres
-"Monitoré las actividades de mi hijo adolescente y descubrí que accedía a contenido inapropiado. La herramienta me proporcionó evidencia clara para tener una conversación constructiva."
+"Monitoré las actividades de mi hijo adolescente y descubrí que accedía a contenido inapropiado. 
+La herramienta me proporcionó evidencia clara para tener una conversación constructiva."
 
 ### Para Empresas
-"Implementamos en estaciones de trabajo críticas y prevenimos una fuga de datos importante. La captura de todas las interacciones nos permitió identificar el punto exacto de compromiso."
+"Implementamos en estaciones de trabajo críticas y prevenimos una fuga de datos importante. 
+La captura de todas las interacciones nos permitió identificar el punto exacto de compromiso."
 
 ### Para Instituciones Educativas
 "Utilizamos la herramienta en laboratorios de computación para asegurar el uso adecuado de los recursos institucionales y mejorar la productividad estudiantil."
 
 ## Capturas de Pantalla
 
-*Espacio para captura del visualizador de logs mostrando análisis avanzado*
+*Visualizador de logs mostrando análisis avanzado*
 
-![Image](https://github.com/user-attachments/assets/e9285af7-208e-48dd-8c8c-e41fe64fbadf)
+<img width="720" alt="Image" src="https://github.com/user-attachments/assets/e9285af7-208e-48dd-8c8c-e41fe64fbadf" />
 
-*Espacio para captura del sistema de filtrado por aplicaciones y horarios*
+*Sistema de filtrado por aplicaciones y horarios*
 
-![Image](https://github.com/user-attachments/assets/0720786a-967e-4fe3-8ed6-2c6de81991a6)
+<img width="720" alt="Image" src="https://github.com/user-attachments/assets/0720786a-967e-4fe3-8ed6-2c6de81991a6" />
 
-*Espacio para captura de reportes estadísticos de actividad*
+*Reportes estadísticos de actividad*
 
-![Image](https://github.com/user-attachments/assets/618a94fc-9886-48bc-b8f0-615efcaacc73)
+<img width="720" alt="Image" src="https://github.com/user-attachments/assets/618a94fc-9886-48bc-b8f0-615efcaacc73" />
 
-![Image](https://github.com/user-attachments/assets/3e8ac4bb-3448-4ecb-a13c-ebb8275338db)
-
+<img width="720" alt="Image" src="https://github.com/user-attachments/assets/3e8ac4bb-3448-4ecb-a13c-ebb8275338db" />
 
 
 ## Solicitar Versión Personalizada
@@ -163,7 +156,7 @@ y las funciones completas de GUARDADO DE DATOS , BUSQUEDA POR PALBRA CLAVE EL CA
 - **Soporte prioritario** y actualizaciones personalizadas
 
 ### 💳 **Aportación y Solicitud**
-Invierta en su seguridad con una versión personalizada , pidela al siguiente enlace o por redes sociales con un mensaje directo DM :
+Invierta en su seguridad con una versión personalizada , pidela al siguiente enlace o por redes sociales con un mensaje directo DM : https://www.paypal.com/paypalme/pixelbitsstudio
 
 
 ## Licencia y Soporte
@@ -209,4 +202,4 @@ Esta herramienta debe utilizarse únicamente en equipos de su propiedad o con co
 
 ---
 
-**PIXELBITS INPUT LOGGER** - Su aliado en monitorización discreta y profesional. Donde la seguridad se encuentra con la tecnología silenciosa.
+**PIXELBITS INPUT REGISTER** - Su aliado en monitorización discreta y profesional. Donde la seguridad se encuentra con la tecnología silenciosa.
