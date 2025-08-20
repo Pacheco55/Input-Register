@@ -41,12 +41,20 @@ Registro preciso de:
 - **Aplicaciones y ventanas** utilizadas en cada momento
 - **Tiempos de actividad** e inactividad prolongada
 
+  ![Image](https://github.com/user-attachments/assets/829e8134-5148-48c4-963f-df93b7892010)
+  
+
 ### Visualización Profesional Intuitiva
 Al finalizar la monitorización, acceda a:
 - **Interfaz de análisis** con filtros avanzados
 - **Búsqueda inteligente** por palabras, aplicaciones o horarios
 - **Vistas resumidas** y detalladas de todas las actividades
 - **Exportación completa** de reportes profesionales
+
+  ![Image](https://github.com/user-attachments/assets/b9979117-66f7-4085-965b-524853b15e95)
+
+  ![Image](https://github.com/user-attachments/assets/e9285af7-208e-48dd-8c8c-e41fe64fbadf)
+  
 
 ## Características Exclusivas
 
@@ -128,11 +136,18 @@ Para detener el monitoreo:
 
 *Espacio para captura del visualizador de logs mostrando análisis avanzado*
 
+![Image](https://github.com/user-attachments/assets/e9285af7-208e-48dd-8c8c-e41fe64fbadf)
+
 *Espacio para captura del sistema de filtrado por aplicaciones y horarios*
+
+![Image](https://github.com/user-attachments/assets/0720786a-967e-4fe3-8ed6-2c6de81991a6)
 
 *Espacio para captura de reportes estadísticos de actividad*
 
-*Espacio para captura de línea de tiempo de eventos*
+![Image](https://github.com/user-attachments/assets/618a94fc-9886-48bc-b8f0-615efcaacc73)
+
+![Image](https://github.com/user-attachments/assets/3e8ac4bb-3448-4ecb-a13c-ebb8275338db)
+
 
 
 ## Solicitar Versión Personalizada
@@ -167,9 +182,6 @@ Esta herramienta debe utilizarse únicamente en equipos de su propiedad o con co
 ## Contacto
 
 **PIXELBITS Studios** - Especialistas en soluciones de seguridad digital
-
-📧 **Email**: contacto@pixelbits.studio  
-🌐 **Sitio Web**: [www.pixelbits.studio](https://www.pixelbits.studio)
 
 ---
 
